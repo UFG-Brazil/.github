@@ -38,7 +38,7 @@ Ao longo dos seus mais de 60 anos de história, a UFG diversificou e ampliou sua
 ## 📍 Contato
 
 🏢 **Universidade Federal de Goiás (UFG)**  
-🌐 Site institucional: [link]  
+🌐 Site institucional: [[UFG.BR](https://ufg.br/)]  
 
 
 > “A universidade é o lugar onde o futuro começa a ser escrito. Junte-se a nós na construção desse futuro.”
